@@ -1,0 +1,21 @@
+{
+  "name": "ROFLNator Studio",
+  "short_name": "ROFLNator",
+  "description": "A creator workflow tool that helps creators and media brands organize short-form video assets, connect supported social accounts, review content queues, and send approved content into publishing flows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "social"],
+  "lang": "en",
+  "dir": "ltr"
+}
